@@ -1,0 +1,29 @@
+{
+  "name": "ecom-app",
+  "version": "1.0.0",
+  "description": "food ordering website",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarshkr02/Ecom-application.git"
+  },
+  "author": "adarsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarshkr02/Ecom-application/issues"
+  },
+  "homepage": "https://github.com/adarshkr02/Ecom-application#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
